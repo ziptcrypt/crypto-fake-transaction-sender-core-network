@@ -21,6 +21,6 @@ What you need to use this software:
 
 We are not responsible for your use of this software, we only have the copyright.
 
-Admin: @zyptcrypt
+Admin: https://t.me/zyptcrypt
 
 Whatsapp: +33 7 45 71 44 57
